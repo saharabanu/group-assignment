@@ -1,0 +1,12 @@
+.navigation a{
+    text-decoration: none;
+    color: white;
+}
+.nav-logo{
+    width: 10%;
+}
+.hover a:hover{
+    background-color: rgb(240, 129, 129);
+    border-radius: 15px;
+    color: white;
+}
